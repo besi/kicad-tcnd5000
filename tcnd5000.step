@@ -6,7 +6,7 @@ HEADER;
  * International Technegroup Inc. (www.iti-oh.com)              *
  ****************************************************************/
 FILE_DESCRIPTION((''),'2;1');
-FILE_NAME('tcnd5000-3D.stp','2010-05-11T11:33:19',(''),(''),'Mechanical Desktop 2009','Mechanical Desktop 2009',', , ');
+FILE_NAME('TCND5000-3D.stp','2010-05-11T11:33:19',(''),(''),'Mechanical Desktop 2009','Mechanical Desktop 2009',', , ');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 2 10303 214 1 1 1 1 }'));
 ENDSEC;
 DATA;
@@ -21,7 +21,7 @@ DATA;
 #29=APPLICATION_CONTEXT('automotive design');
 #30=APPLICATION_PROTOCOL_DEFINITION('INTERNATIONAL_STANDARD','automotive_design',1998,#29);
 #31=PRODUCT_CONTEXT('3D Mechanical Parts',#29,'mechanical');
-#32=PRODUCT('tcnd5000-3D','tcnd5000-3D','',(#31));
+#32=PRODUCT('TCND5000-3D','TCND5000-3D','',(#31));
 #33=PRODUCT_RELATED_PRODUCT_CATEGORY('part',$,(#32,#70,#427,#816,#1241));
 #34=PRODUCT_CATEGORY('part',$);
 #35=PERSON('1','Design','Joe',$,$,$);
